@@ -2,6 +2,7 @@
 .import/
 export.cfg
 export_presets.cfg
+addons/github-integration/
 
 # Imported translations (automatically generated from CSV files)
 *.translation
